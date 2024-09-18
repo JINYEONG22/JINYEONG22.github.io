@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 고진영
+title: JINYEONG
 # Is this the primary user of the site?
 superuser: true
 
